@@ -1,5 +1,5 @@
 ﻿# Phone-Controlled Robot Arm
-My project is a mechanical arm that can be controlled via bluetooth. This means that a person will be able to use a 
+My project is a mechanical arm that can be controlled via bluetooth and an apk app that will allow an android device to control the arm. The arm will be able to grab, hold, and transfer small, light items. This will be accomplished through the usage of servo motors that will be connected to the robot arm.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
