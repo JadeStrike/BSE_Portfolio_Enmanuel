@@ -5,6 +5,9 @@ My project is a mechanical arm that can be controlled via bluetooth and an apk a
 |:--:|:--:|:--:|:--:|
 | Enmanuel | The Renaissance Charter School | Computer/Electrical Engineering | Incoming Senior
 
+<a href="https://ibb.co/8zCDMN4"><img src="https://i.ibb.co/DGJD4zg/Face.jpg" alt="Face" border="0"></a>
+<a href="https://ibb.co/zfzqFBn"><img src="https://i.ibb.co/Jk9DqGB/Arm.jpg" alt="Arm" border="0"></a>
+
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
 # Final Milestone
@@ -13,7 +16,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone is controlling the robot arm with five potentiometers and through a GUI powered by python. The first step in this was 
+My second milestone is controlling the robot arm with five potentiometers and through a GUI powered by python. To accomplish control with the potentiometers, I uploaded the code to the arduino board which would allow it to receive and translate the inputs of the potentiometers to motion of the arm. After that, I was able to control the arm with the potentiometers. In contrast, the GUI took a little more effort; the first step was to download python, which would allow the servosGUI.py file to work. After that, I uploaded the code to the arduino board that would allow it to communicate with my computer in such a way that would allow it to be controlled with the GUI. Finally, I opened the servosGUI.py file and connected it to COM6 (the port that the arm was connected to). After all of this, control of the arm was successful.
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1657898837/video_to_markdown/images/youtube--Uyg9Bej54NE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Uyg9Bej54NE "Milestone 2"){:target="_blank" rel="noopener"}
 
