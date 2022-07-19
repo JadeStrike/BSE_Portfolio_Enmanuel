@@ -1,7 +1,9 @@
 ﻿# Phone-Controlled Robot Arm
 Hello, I am Enmanuel. My project is a mechanical arm that can be controlled via bluetooth and an apk app that will allow an android device to control the arm. The arm will be able to grab, hold, and transfer small, light items. This will be accomplished through the usage of five servo motors that will be connected to the robot arm.
 
-<a href="https://ibb.co/8zCDMN4"><img src="https://i.ibb.co/DGJD4zg/Face.jpg" alt="Face" border="0"></a>
+<p align="center">
+  <a href="https://ibb.co/8zCDMN4"><img src="https://i.ibb.co/DGJD4zg/Face.jpg" alt="Face" border="0"></a>
+</p>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
