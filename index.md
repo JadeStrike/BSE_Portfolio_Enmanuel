@@ -1,6 +1,5 @@
-<p align="center">
-  ﻿# Phone-Controlled Robot Arm
-</p>
+﻿# Phone-Controlled Robot Arm
+
 Hello, I am Enmanuel. My project is a mechanical arm that can be controlled via bluetooth and an apk app that will allow an android device to control the arm. The arm will be able to grab, hold, and transfer small, light items. This will be accomplished through the usage of five servo motors that will be connected to the robot arm.
 
 <p align="center">
@@ -11,9 +10,7 @@ Hello, I am Enmanuel. My project is a mechanical arm that can be controlled via 
 |:--:|:--:|:--:|:--:|
 | Enmanuel | The Renaissance Charter School | Electrical Engineering | Incoming Senior
 
-<p align="center">
-  # My Project
-</p>
+# My Project
 
 <p align="center">
   <a href="https://ibb.co/zfzqFBn"><img src="https://i.ibb.co/Jk9DqGB/Arm.jpg" alt="Arm" border="0"></a>
