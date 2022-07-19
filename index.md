@@ -1,11 +1,14 @@
 ﻿# Phone-Controlled Robot Arm
-My project is a mechanical arm that can be controlled via bluetooth and an apk app that will allow an android device to control the arm. The arm will be able to grab, hold, and transfer small, light items. This will be accomplished through the usage of five servo motors that will be connected to the robot arm.
+Hello, I am Enmanuel. My project is a mechanical arm that can be controlled via bluetooth and an apk app that will allow an android device to control the arm. The arm will be able to grab, hold, and transfer small, light items. This will be accomplished through the usage of five servo motors that will be connected to the robot arm.
+
+<a href="https://ibb.co/8zCDMN4"><img src="https://i.ibb.co/DGJD4zg/Face.jpg" alt="Face" border="0"></a>
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Enmanuel | The Renaissance Charter School | Computer/Electrical Engineering | Incoming Senior
+| Enmanuel | The Renaissance Charter School | Electrical Engineering | Incoming Senior
 
-<a href="https://ibb.co/8zCDMN4"><img src="https://i.ibb.co/DGJD4zg/Face.jpg" alt="Face" border="0"></a>
+# My Project
+
 <a href="https://ibb.co/zfzqFBn"><img src="https://i.ibb.co/Jk9DqGB/Arm.jpg" alt="Arm" border="0"></a>
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
