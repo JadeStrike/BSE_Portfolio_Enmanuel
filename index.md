@@ -1,6 +1,6 @@
-﻿# Phone-Controlled Robot Arm
+﻿# Robot Arm
 
-Hello, I am Enmanuel. My project is a mechanical arm that can be controlled via bluetooth and an apk app that will allow an android device to control the arm. The arm will be able to grab, hold, and transfer small, light items. This will be accomplished through the usage of five servo motors that will be connected to the robot arm.
+Hello, I am Enmanuel. My project is a mechanical arm that can be controlled through a variety of ways, including processing. The arm will be able to grab, hold, and transfer small, light items. This will be accomplished through the usage of five servo motors that will be connected to the robot arm.
 
 <p align="center">
   <a href="https://ibb.co/8zCDMN4"><img src="https://i.ibb.co/DGJD4zg/Face.jpg" alt="Face" border="0"></a>
@@ -17,7 +17,7 @@ Hello, I am Enmanuel. My project is a mechanical arm that can be controlled via 
 </p>
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is using processing to control the arm. Processing is a new computer language/extension of the Java language which aims to introduce programming languages to electronic art and electronic art to programmers. The first step to my final milestone was to download processing, which was very simple. The next step was to upload the code to the arm that would allow it to receive and inputs from processing. Finally, I had to run the code in the processing app that would allow it to send inputs in the first place. Once all of this was complete, I was able to control the arm through the processing interface. I can also control it using my keyboard.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
