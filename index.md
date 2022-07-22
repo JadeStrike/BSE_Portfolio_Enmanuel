@@ -28,14 +28,14 @@ My final milestone is using processing to control the arm. Processing is a new c
 My second milestone is controlling the robot arm with five potentiometers and through a GUI powered by python. To accomplish control with the potentiometers, I uploaded the code to the arduino board which would allow it to receive and translate the inputs of the potentiometers to motion of the arm. After that, I was able to control the arm with the potentiometers. In contrast, the GUI took a little more effort; the first step was to download python, which would allow the servosGUI.py file to work. After that, I uploaded the code to the arduino board that would allow it to communicate with my computer in such a way that would allow it to be controlled with the GUI. Finally, I opened the servosGUI.py file and connected it to COM6 (the port that the arm was connected to). After all of this, control of the arm was successful.
 
 <p align="center">
-  <iframe width="2000" height="1000" src="https://www.youtube.com/embed/Uyg9Bej54NE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="1000" height="500" src="https://www.youtube.com/embed/Uyg9Bej54NE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
 # First Milestone
 My first milestone is controlling the servo motor with my phone via bluetooth. The first step was to write a code that would allow the arduino to receive data packets from the bluetooth module and then transmit those data packets to the servo motor. After that, I connected the servo motor to the GND, -9, and 3.3V pins of the arduino uno board. Then I had to download the .apk app that would control the servo motor. After doing all of this, I was able to control the motor with my phone.
 
 <p align="center">
-  <iframe width="3000" height="1500" src="https://www.youtube.com/embed/TEca-ZLHSUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="1000" height="500" src="https://www.youtube.com/embed/TEca-ZLHSUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
 # Materials List 
