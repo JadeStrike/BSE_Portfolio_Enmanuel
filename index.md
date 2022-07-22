@@ -13,7 +13,7 @@ Hello, I am Enmanuel. My project is a mechanical arm that can be controlled thro
 # My Project
 
 <p align="center">
-  <a href="https://ibb.co/zfzqFBn"><img src="https://i.ibb.co/Jk9DqGB/Arm.jpg" alt="Arm" border="0"></a>
+  <a href="https://ibb.co/Bs67qwV"><img src="https://i.ibb.co/cT8pDxc/Arm-Final.jpg" alt="Arm_Final" border="0"></a>
 </p>
 
 # Final Milestone
@@ -29,6 +29,7 @@ My second milestone is controlling the robot arm with five potentiometers and th
 # First Milestone
 My first milestone is controlling the servo motor with my phone via bluetooth. The first step was to write a code that would allow the arduino to receive data packets from the bluetooth module and then transmit those data packets to the servo motor. After that, I connected the servo motor to the GND, -9, and 3.3V pins of the arduino uno board. Then I had to download the .apk app that would control the servo motor. After doing all of this, I was able to control the motor with my phone.
 
+
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657377720/video_to_markdown/images/youtube--TEca-ZLHSUo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TEca-ZLHSUo "Milestone 1"){:target="_blank" rel="noopener"}
 
 # Materials List 
@@ -42,7 +43,11 @@ This is a table containing all the materials for the project and where to obtain
 | Jumper Wires | 24 | $6.49 | https://www.amazon.com/GenBasic-Solderless-Dupont-Compatible-Breadboard-Prototyping/dp/B01L5UJ36U |
 | Arduino Uno Board | 1 | $27.00 | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6 |
 
-# 
+# Schematics
+
+<p align="center">
+   <a href="https://ibb.co/RyMH87z"><img src="https://i.ibb.co/JQbkZC5/Schematic.png" alt="Schematic" border="0"></a>
+</p>
 
 # Example Code (Processing)
 
@@ -183,3 +188,5 @@ void loop() {
 }
 
 ```
+# Advice for Recreation
+To those looking to recreate this project, some advice: if the arm begins to move by itself and crash your computer, rewire the project according to the schematic. Ensure that no screws are on too tight or too loose. If the arm does not move, try inserting batteries (usually this is not needed since the arm reveives voltage from wherever you plugged it in). With these tips in mind, the instructions for construction can be downloaded from the Adeept website: https://www.adeept.com/learn/detail-31.html.
