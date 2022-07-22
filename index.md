@@ -20,8 +20,7 @@ Hello, I am Enmanuel. My project is a mechanical arm that can be controlled thro
 My final milestone is using processing to control the arm. Processing is a new computer language/extension of the Java language which aims to introduce programming languages to electronic art and electronic art to programmers. The first step to my final milestone was to download processing, which was very simple. The next step was to upload the code to the arm that would allow it to receive and inputs from processing. Finally, I had to run the code in the processing app that would allow it to send inputs in the first place. Once all of this was complete, I was able to control the arm through the processing interface. I can also control it using my keyboard.
 
 <p align="center">
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/4yhy7YYJi4c](https://youtu.be/3oQrefB0k7c
-)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3oQrefB0k7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
